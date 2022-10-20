@@ -1,5 +1,5 @@
 =  - recebe (x = 1).
-== - igual.
+== - igual (x == y).
 != - diferente de (x != y).
 <= - menor ou igual (x <= y).
 >= - maior ou igual (x >= y).
