@@ -1,4 +1,4 @@
-%d - imprime uma variavel do tipo int (integer)
-%f - imprime uma variavel do tipo float (floating point)
-%c - imprime uma variavel do tipo char (charater).
-%s - armazena os caracteres digitados, na variavel selecionada (string).
+%d - imprime/armazena uma variavel do tipo int (integer)
+%f - imprime/armazena uma variavel do tipo float (floating point)
+%c - imprime/armazena uma variavel do tipo char (charater).
+%s - imprime/armazena uma váriavel do tipo string, ou um array de characteres (string).
