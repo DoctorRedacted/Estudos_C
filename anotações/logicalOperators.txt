@@ -1,0 +1,6 @@
+<= - menor ou igual a (x <= y).
+>= - maior ou igual a (x >= y).
+> = maior que (x > y).
+< - menor que (x < y).
+!= - diferente de (x != y).
+= - recebe (x = 1).
