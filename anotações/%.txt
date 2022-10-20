@@ -1,4 +1,4 @@
 %d - imprime uma variavel do tipo int (integer)
 %f - imprime uma variavel do tipo float (floating point)
 %c - imprime uma variavel do tipo char.
-%s - Adiciona o caractere na variavel selecionada
+%s - Adiciona o caractere na variavel selecionada.
