@@ -1,6 +1,7 @@
-// N = ESTUDANTES
-// D = MILILITROS POR ESTUDANTES
-// L = LITROS DA GARRAFA
+/* N = ESTUDANTES
+* D = MILILITROS POR ESTUDANTES
+* L = LITROS DA GARRAFA
+*/
 
 #include <stdio.h>
 #include <stdlib.h>
